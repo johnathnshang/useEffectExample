@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 30vh;
+}
+
+.link {
+  background-color: var(--redwood);
+  color: var(--cornsilk);
+  width: 30%;
+  height: 50px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: x-large;
+}

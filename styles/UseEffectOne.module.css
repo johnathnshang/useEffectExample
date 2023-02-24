@@ -1,0 +1,33 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.homeButton {
+    background-color: var(--celadon);
+    color: var(--cornsilk);
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: larger;
+    border-color: var(--cornsilk);
+    border-style: solid;
+    border-width: 5px;
+    margin: 1%;
+}
+
+.text {
+    margin: 10%;
+    font-size: xx-large;
+    color: var(--cornsilk);
+    background-color: var(--redwood);
+    width: 40%;
+    text-align: center;
+    border-radius: 20px;
+    border-color: var(--thulianPink);
+    border-style: solid;
+    border-width: 10px;
+}

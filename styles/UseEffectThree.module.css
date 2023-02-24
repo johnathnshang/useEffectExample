@@ -1,0 +1,50 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.homeButton {
+    background-color: var(--celadon);
+    color: var(--cornsilk);
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: larger;
+    border-color: var(--cornsilk);
+    border-style: solid;
+    border-width: 5px;
+    margin: 1%;
+}
+
+.click {
+    background-color: var(--thulianPink);
+    color: var(--cornsilk);
+    width: 400px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: var(--celadon);
+    border-width: 5px;
+    margin: 2%;
+}
+
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30%;
+}
+
+.text {
+    font-size: xx-large;
+    color: var(--cornsilk);
+    background-color: var(--redwood);
+    width: 400px;
+    text-align: center;
+    border-radius: 20px;
+    border-color: var(--thulianPink);
+    border-style: solid;
+    border-width: 10px;
+}
